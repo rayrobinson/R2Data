@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## R2Data Analytics
 
 You can use the [editor on GitHub](https://github.com/rayrobinson/r2data/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
